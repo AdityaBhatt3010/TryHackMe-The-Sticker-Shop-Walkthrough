@@ -1,7 +1,7 @@
 # 🏴‍☠️ TryHackMe – The Sticker Shop Walkthrough 🗿
 
-**Room:** [The Sticker Shop](https://tryhackme.com/room/thestickershop)
-**Description:** A practical demonstration of exploiting poor web security practices using Stored Cross-Site Scripting to extract sensitive server-side data.
+**Room:** [The Sticker Shop](https://tryhackme.com/room/thestickershop) <br/>
+**Description:** A practical demonstration of exploiting poor web security practices using Stored Cross-Site Scripting to extract sensitive server-side data. <br/>
 
 <img width="958" height="312" alt="Cover" src="https://github.com/user-attachments/assets/df845336-77bc-4113-9882-12ad0629e431" /> <br/>
 
