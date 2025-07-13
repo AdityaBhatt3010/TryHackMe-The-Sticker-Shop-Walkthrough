@@ -160,12 +160,12 @@ This room is a **perfect demonstration of client-side attack surfaces being misu
 
 ## 🫡 Outro — The Flag Was Sealed, But Bub Had the Key
 
-Despite all their HTML and CSS efforts, the sticker shop forgot the #1 rule of the web:
-**"Never trust user input."**
-From `401 Unauthorized` to `THM{Owned}`, it was a matter of time before XSS came knocking on their door.
+Despite all their HTML and CSS efforts, the sticker shop forgot the #1 rule of the web: <br/>
+**"Never trust user input."** <br/>
+From `401 Unauthorized` to `THM{Owned}`, it was a matter of time before XSS came knocking on their door. <br/>
 
-Room 100% ✅
-Sticker shop? More like **Script Kiddie Buffet.**
-Another day, another flag, another step toward full domination 🗿🔥
+Room 100% ✅ <br/>
+Sticker shop? More like **Script Kiddie Buffet.** <br/>
+Another day, another flag, another step toward full domination 🗿🔥 <br/>
 
 ---
